@@ -1,0 +1,98 @@
+/*Menu*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#menu-h{
+    background-color: black;
+}
+
+#menu-h ul {
+    max-width: 800px;
+    list-style: none;
+    padding: 0;
+}
+
+#menu-h ul li {
+    display: inline;
+}
+
+#menu-h ul li a {
+    color: #FFF;
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+    transition: 0.4s;
+}
+
+#menu-h ul li a:hover {
+    background-color: rgb(24, 139, 233);
+    border-radius: 5px;
+}
+
+#menu-h ul li:last-child a {
+    float: right;
+    background-color: rgb(24, 139, 233);
+    border-radius: 5px;
+}
+
+/*logotipo*/
+.logotipo {
+    border-radius: 100%;
+    max-width: 300px;
+
+ }
+
+/*Texto e imagem*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.corpo {
+    width: 1250px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background: rgba(165, 162, 162, 0.938);
+    padding-left: 10px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    border-radius: 20px;
+  }
+  
+  .conteudo {
+    display: table;
+  }
+  
+  .imagem {
+    display: table-cell;
+    float: left;
+    margin-top: 30px;
+  }
+  
+  .texto {
+    display: table-cell;
+    width: 800px;
+    float: left;
+    text-align: justify;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+  }
+
+/*Rodapé*/
+footer {
+    padding: 10px;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    background: black;
+    color: white;
+    font-family: 'Arial';
+    letter-spacing: 1px;
+}

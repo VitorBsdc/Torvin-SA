@@ -1,0 +1,81 @@
+/*Menu*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#menu-h{
+    background-color: black;
+}
+
+#menu-h ul {
+    max-width: 800px;
+    list-style: none;
+    padding: 0;
+}
+
+#menu-h ul li {
+    display: inline;
+}
+
+#menu-h ul li a {
+    color: #FFF;
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+    transition: 0.4s;
+}
+
+#menu-h ul li a:hover {
+    background-color: rgb(24, 139, 233);
+    border-radius: 5px;
+}
+
+#menu-h ul li:last-child a {
+    float: right;
+    background-color: rgb(24, 139, 233);
+    border-radius: 5px;
+}
+
+/*Grid-Colunas*/
+.container {
+    max-width: 1200px;
+    margin: auto;
+    background: white;
+    overflow: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.gallery {
+    margin: 5px;
+    border: 1px solid black;
+    float: left;
+    width: 390px;
+}
+
+.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+/*Rodapé*/
+footer {
+    padding: 10px;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    background: black;
+    color: white;
+    font-family: 'Arial';
+    letter-spacing: 1px;
+}
