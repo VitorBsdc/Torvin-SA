@@ -12,23 +12,23 @@ Projeto:
 
 - Página inicial
 
-![image-20220420123135122](C:\Users\vitor\AppData\Roaming\Typora\typora-user-images\image-20220420123135122.png)
+![page-1](img-readme/print1.png)
 
 - Página Empresa
 
-![image-20220420123054637](C:\Users\vitor\AppData\Roaming\Typora\typora-user-images\image-20220420123054637.png)
+![page-2](img-readme/print2.png)
 
 - Página Portfólio
 
-![image-20220420123214037](C:\Users\vitor\AppData\Roaming\Typora\typora-user-images\image-20220420123214037.png)
+![page-3](img-readme/print3.png)
 
 - Página Vagas
 
-![image-20220420123235702](C:\Users\vitor\AppData\Roaming\Typora\typora-user-images\image-20220420123235702.png)
+![page-4](img-readme/print4.png)
 
 - Página Contatos
 
-![image-20220420123257753](C:\Users\vitor\AppData\Roaming\Typora\typora-user-images\image-20220420123257753.png)
+![page-5](img-readme/print5.png)
 
 Dificuldades enfrentadas:
 
