@@ -79,3 +79,23 @@ footer {
     font-family: 'Arial';
     letter-spacing: 1px;
 }
+
+@media (max-width: 1200px){
+    .container{
+        max-width: 900px
+    }
+
+    .gallery{
+        width: 200px;
+    }
+}
+
+@media (max-width: 840px){
+    .container{
+        max-width: 600px
+    }
+
+    .gallery{
+        width: 150px;
+    }
+}
